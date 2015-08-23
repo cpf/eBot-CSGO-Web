@@ -33,7 +33,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="12">
-        <source>Matches in Progress / Upcomming Matches</source>
+        <source>Matches in Progress / Upcoming Matches</source>
         <target/>
       </trans-unit>
       <trans-unit id="13">
@@ -85,7 +85,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="25">
-        <source>Informationen</source>
+        <source>Information</source>
         <target/>
       </trans-unit>
       <trans-unit id="52">
@@ -949,7 +949,23 @@
 			&lt;p&gt;The columns &lt;b&gt;1K&lt;/b&gt;, &lt;b&gt;2K&lt;/b&gt;, ... represent the number of kills per round. i.e : if there is a 2 in the 3K column, in means I played 2 rounds during which I made 3 kills.&lt;/p&gt;
 			&lt;p&gt;The column &lt;b&gt;FK&lt;/b&gt; means &lt;b&gt;First Kill&lt;/b&gt;, useful to see who made a first kill&lt;/p&gt;
 			&lt;p&gt;The clutch points tell if a player made various clutches, such as winning a 1vs1. They are calculated this way : number of won 1 v X multiplied by X. If I made three 1vs1 and a 1vs2, I will therefore have 5 points. (1vs1 x 3 = 3, 1vs2 x 1 = 2)&lt;/p&gt;
-</source>
+		</source>
+        <target/>
+      </trans-unit>
+	  <trans-unit id="268">
+        <source>The new version of eBot allows you to have access to more statistics of the matches but also a better management of the matches.</source>
+        <target/>
+      </trans-unit>
+	  <trans-unit id="269">
+        <source>If you have a problem with eBot, please read the help.</source>
+        <target/>
+      </trans-unit>
+	  <trans-unit id="270">
+        <source>Visit</source>
+        <target/>
+      </trans-unit>
+	  <trans-unit id="271">
+        <source>for more information !</source>
         <target/>
       </trans-unit>
     </body>
