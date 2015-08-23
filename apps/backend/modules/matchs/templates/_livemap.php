@@ -26,8 +26,8 @@
                     <h3><?php echo __("Legende"); ?></h3>
                 </div>
                 <div class="modal-body" style="max-height: 100%; min-height: 420px;">
-                    <img src="/images/maps/csgo/livemap/_blue.png" style="width: 16px; height: 16px;"> Attacker<br>
-                    <img src="/images/maps/csgo/livemap/_red.png" style="width: 16px; height: 16px;"> Victim<br>
+                    <img src="/images/maps/livemap/_blue.png" style="width: 16px; height: 16px;"> Attacker<br>
+                    <img src="/images/maps/livemap/_red.png" style="width: 16px; height: 16px;"> Victim<br>
                 </div>
             </div>
         </div>

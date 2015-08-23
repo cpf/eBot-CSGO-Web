@@ -41,9 +41,9 @@
         var context = canvas.getContext('2d');
 
         var blue = new Image();
-        blue.src = '/images/maps/csgo/livemap/_blue.png';
+        blue.src = '/images/maps/livemap/_blue.png';
         var red = new Image();
-        red.src = '/images/maps/csgo/livemap/_red.png';
+        red.src = '/images/maps/livemap/_red.png';
 
         initSocketIo(function(socket) {
             var map = new Image();
