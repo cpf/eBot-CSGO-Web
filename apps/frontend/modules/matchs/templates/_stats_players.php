@@ -156,9 +156,9 @@
 
 <h5><i class="icon-info-sign"></i> <?php echo __("Info"); ?></h5>
 <div class="well">
-    <?php echo __("<p>Vous pouvez trier tous les champs du tableau pour obtenir des résultats personallisés.</p>
-			<p>Les colonnes <b>1K</b>, <b>2K</b>, ... représentent le nombre de kill par round effectué. Par exemple, si j'ai 2 dans la colonne 3K, cela veut dire que j'ai fais 2 rounds où j'ai fais 3 kills.
-			<p>La colonne <b>FK</b> signifie <b>First Kill</b>, utile pour voir les personnes qui font les premiers kills</p>
-			<p>Les points clutchs représentent si la personne a réalisé plusieurs \"clutch\", par exemple, gagné un 1v1. Ils sont calculés comme ceci: nombre de 1 v X gagné multiplé par X. Si j'ai fais trois 1v1 et un 1v2, j'aurai donc 5 points. (1v1 x 3 = 3, 1v2 x 1 = 2)</p>
+    <?php echo __("<p>You can sort the table to have custom statistics.</p>
+			<p>The columns <b>1K</b>, <b>2K</b>, ... represent the number of kills per round. i.e : if there is a 2 in the 3K column, in means I played 2 rounds during which I made 3 kills.</p>
+			<p>The column <b>FK</b> means <b>First Kill</b>, useful to see who made a first kill</p>
+			<p>The clutch points tell if a player made various clutches, such as winning a 1vs1. They are calculated this way : number of won 1 v X multiplied by X. If I made three 1vs1 and a 1vs2, I will therefore have 5 points. (1vs1 x 3 = 3, 1vs2 x 1 = 2)</p>
 "); ?>
 </div>
