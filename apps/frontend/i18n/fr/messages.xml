@@ -968,6 +968,14 @@
         <source>for more information !</source>
         <target>pour plus d'information !</target>
       </trans-unit>
+  	  <trans-unit id="272">
+        <source>Previous</source>
+        <target>Précédent</target>
+      </trans-unit>
+	  <trans-unit id="273">
+        <source>Next</source>
+        <target>Suivant</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
