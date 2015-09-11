@@ -1001,7 +1001,7 @@
         <target>更新</target>
       </trans-unit>
       <trans-unit id="251">
-        <source>Last Loging</source>
+        <source>Last Login</source>
         <target>上次登录</target>
       </trans-unit>
       <trans-unit id="252">

@@ -6,7 +6,7 @@
             <th><?php echo __("Username"); ?></th>
             <th><?php echo __("Created"); ?></th>
             <th><?php echo __("Updated"); ?></th>
-            <th><?php echo __("Last Loging"); ?></th>
+            <th><?php echo __("Last Login"); ?></th>
             <th><?php echo __("Action"); ?></th>
         </tr>
     </thead>
