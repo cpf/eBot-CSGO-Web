@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <th><?php echo __("#ID"); ?></th>
-            <th><?php echo __("IP Adress"); ?></th>
+            <th><?php echo __("IP Address"); ?></th>
             <th><?php echo __("Name"); ?></th>
             <th><?php echo __("used?"); ?></th>
             <th><?php echo __("Action"); ?></th>
