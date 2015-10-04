@@ -1045,7 +1045,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="260">
-        <source>IP Adress</source>
+        <source>IP Address</source>
         <target/>
       </trans-unit>
       <trans-unit id="261">
@@ -1061,7 +1061,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="264">
-        <source>No Servers registered.</source>
+        <source>No servers registered.</source>
         <target/>
       </trans-unit>
       <trans-unit id="265">

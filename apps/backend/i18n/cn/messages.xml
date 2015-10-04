@@ -1037,7 +1037,7 @@
         <target>成功添加1台服务器。IP: </target>
       </trans-unit>
       <trans-unit id="260">
-        <source>IP Adress</source>
+        <source>IP Address</source>
         <target>IP地址</target>
       </trans-unit>
       <trans-unit id="261">
@@ -1053,7 +1053,7 @@
         <target>不在使用中</target>
       </trans-unit>
       <trans-unit id="264">
-        <source>No Servers registered.</source>
+        <source>No servers registered.</source>
         <target>未注册任何服务器</target>
       </trans-unit>
       <trans-unit id="265">

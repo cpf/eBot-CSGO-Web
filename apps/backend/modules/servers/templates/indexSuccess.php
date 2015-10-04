@@ -33,7 +33,7 @@
         <?php endforeach; ?>
         <?php if ($servers->count() == 0): ?>
             <tr>
-                <td colspan="5"><?php echo __("No Servers registered."); ?></td>
+                <td colspan="5"><?php echo __("No servers registered."); ?></td>
             </tr>
         <?php endif; ?>
     </tbody>
