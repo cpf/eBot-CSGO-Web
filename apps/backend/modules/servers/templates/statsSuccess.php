@@ -8,7 +8,7 @@
     <thead>
         <tr>
             <th><?php echo __("#ID"); ?></th>
-            <th><?php echo __("IP Adress"); ?></th>
+            <th><?php echo __("IP Address"); ?></th>
             <th><?php echo __("Matches"); ?></th>
             <th><?php echo __("Kills"); ?></th>
             <th><?php echo __("Headshots"); ?></th>
