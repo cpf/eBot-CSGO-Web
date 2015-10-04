@@ -122,7 +122,7 @@
 
             <!-- Please, don't remove the brand -->
             <footer class="footer">
-                <p>&copy; <a target="_blank" href="http://www.esport-tools.net/ebot">eSport-tools</a> 2012-2013 - <?php echo (sfConfig::get("app_version") != "") ? sfConfig::get("app_version") : "3.0 RC6"; ?> - By deStrO &amp; Basert - Follow <a target="_blank" href="https://twitter.com/deStrO_BE">deStrO</a> &amp; <a target="_blank" href="https://twitter.com/justbasert">Basert</a> on Twitter - Propulsed by <a target="_blank" href="http://twitter.github.com/bootstrap">Bootstrap</a> & <a target="_blank" href="http://www.symfony-project.com">Symfony</a> - Follow eBot on <a target="_blank" href="https://github.com/deStrO/eBot-CSGO">GitHub</a></p>
+                <p>&copy; <a target="_blank" href="http://www.esport-tools.net/ebot">eSport-tools</a> 2012-<?php echo date('Y') ?> - <?php echo (sfConfig::get("app_version") != "") ? sfConfig::get("app_version") : "3.0 RC6"; ?> - By deStrO &amp; Basert - Follow <a target="_blank" href="https://twitter.com/deStrO_BE">deStrO</a> &amp; <a target="_blank" href="https://twitter.com/justbasert">Basert</a> on Twitter - Propulsed by <a target="_blank" href="http://twitter.github.com/bootstrap">Bootstrap</a> & <a target="_blank" href="http://www.symfony-project.com">Symfony</a> - Follow eBot on <a target="_blank" href="https://github.com/deStrO/eBot-CSGO">GitHub</a></p>
             </footer>
         </div>
     </body>
