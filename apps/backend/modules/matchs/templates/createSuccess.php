@@ -206,7 +206,7 @@
                                 </span>
                             <?php endif; ?>
                             <?php if ($name == "rules"): ?>
-                                <span class="help-inline"><?php echo __("Enter the name of the .cfg File without the extension (esl5on5.cfg => esl5on5)"); ?></span>
+                                <span class="help-inline"><?php echo __("Enter the name of the .cfg file without the extension (esl5on5.cfg => esl5on5)"); ?></span>
                             <?php endif; ?>
                         </div>
                     </div>

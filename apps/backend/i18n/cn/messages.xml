@@ -553,7 +553,7 @@
         <target>比赛状态</target>
       </trans-unit>
       <trans-unit id="136">
-        <source>Enter the name of the .cfg File without the extension (esl5on5.cfg =&gt; esl5on5)</source>
+        <source>Enter the name of the .cfg file without the extension (esl5on5.cfg =&gt; esl5on5)</source>
         <target>输入cfg文件名 (不要后缀名，例如esl5on5.cfg =&gt; esl5on5)</target>
       </trans-unit>
       <trans-unit id="137">
