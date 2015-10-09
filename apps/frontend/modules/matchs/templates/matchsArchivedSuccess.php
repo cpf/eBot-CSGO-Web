@@ -1,4 +1,4 @@
-<h3><?php echo ucfirst(__("Archivied Matches")); ?></h3>
+<h3><?php echo ucfirst(__("Archived Matches")); ?></h3>
 <hr/>
 <div class="navbar">
     <div class="navbar-inner">
