@@ -43,7 +43,7 @@
         <?php echo __("At the end of the knife round, the winning team <b>WILL HAVE TO</b> tell the eBot what they decide to do (stay or switch). The eBot will automatically switch the players and reverse the team."); ?>
     </p>
     <ul class="unstyled">
-        <li><b>!stay</b> : <?php echo __(" no team switch"); ?></li>
+        <li><b>!stay</b> : <?php echo __("no team switch"); ?></li>
         <li><b>!switch</b> : <?php echo __("switches the teams"); ?></li>
     </ul>
 </div>
