@@ -2,7 +2,7 @@
 
 <div class="well">
     <p>
-        <?php echo __("eBot includes a whole series of commands that can be launched at any time during the match using the chat. These commands allow things such as getting stats, the match score, starting the match, etc ...."); ?>
+        <?php echo __("eBot includes a whole series of commands that can be launched at any time during the match using the chat. These commands allow things such as getting stats, the match score, starting the match, etc ..."); ?>
     </p>
 </div>
 <hr/>
@@ -11,8 +11,8 @@
 
 <div class="well">
     <ul class="unstyled">
-        <li><b>!help</b> : <?php echo __("affiche les commandes disponibles"); ?></li>
-        <li><b>!stats</b> : <?php echo __("send stats of the match (kill, ratio K/D, ratio HS))"); ?></li>
+        <li><b>!help</b> : <?php echo __("displays the available commands"); ?></li>
+        <li><b>!stats</b> : <?php echo __("send stats of the match (kill, ratio K/D, ratio HS)"); ?></li>
         <li><b>!morestats</b> : <?php echo __("sends the detailed statistics, such as the number of First Kill, 1vX, kill per round, etc ..."); ?></li>
         <li><b>!status</b> : <?php echo __("displays the match status"); ?></li>
         <li><b>!score</b> : <?php echo __("sends the matches scores"); ?></li>
