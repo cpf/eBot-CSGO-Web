@@ -96,10 +96,6 @@
         <source>Statistics</source>
         <target/>
       </trans-unit>
-      <trans-unit id="54">
-        <source>Ingame Help</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="55">
         <source>Match Menu</source>
         <target/>
@@ -860,90 +856,6 @@
         <source>for more information!</source>
         <target/>
       </trans-unit>
-      <trans-unit id="246">
-        <source>eBot includes a whole series of commands which can be used via the chat, at various moments of the match. With these commands you can ask for your personal stats, the score match, you can restart the match, etc ...</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="247">
-        <source>Commands usable at any moment</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="248">
-        <source>displays the available commands</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="249">
-        <source>sends the statistics of the match (number of kills, K/D ratio, HD ratio, ...)</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="250">
-        <source>sends the detailed statistics, such as the number of First Kill, 1vX, kill per round, etc ...</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="251">
-        <source>displays the match status</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="252">
-        <source>sends the match scores</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="253">
-        <source>Commands usable during warmup</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="254">
-        <source>telling the bot that the team is ready. When the 2 teams are ready, the match is launched</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="255">
-        <source>telling the bot that the team is not ready anymore.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="256">
-        <source>Commands usable during knife round</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="257">
-        <source>tells that your team wants the knife round to be restarted. The restart of the knife round is only possible if the other team agrees.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="258">
-        <source>Commands usable at the end of the knife round</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="259">
-        <source>At the end of the knife round, the winning team &lt;b&gt;WILL HAVE TO&lt;/b&gt; tell the eBot what they decide to do (stay or switch). The eBot will automatically switch the players and reverse the team.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="260">
-        <source>no team switch</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="261">
-        <source>switches the teams</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="262">
-        <source>Commands usable during the match</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="263">
-        <source>tells the other team that your team wants to stop the match. The match stop is only possible if the other team agrees. The other team will also have to write !stop to stop the match. The match stop makes the match return to the previous state (warmup).</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="264">
-        <source>tells the other team your team wants to continue the match (if stopped)</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="265">
-        <source>tells the other team you want to pause</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="266">
-        <source>tells the other team you want to unpause</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="267">
         <source>&lt;p&gt;You can sort the table to have custom statistics.&lt;/p&gt;
 			&lt;p&gt;The columns &lt;b&gt;1K&lt;/b&gt;, &lt;b&gt;2K&lt;/b&gt;, ... represent the number of kills per round. i.e : if there is a 2 in the 3K column, in means I played 2 rounds during which I made 3 kills.&lt;/p&gt;
@@ -972,7 +884,7 @@
         <source>for more information !</source>
         <target>pour plus d'information !</target>
       </trans-unit>
-  	  <trans-unit id="272">
+    <trans-unit id="272">
         <source>Prev</source>
         <target>Précédent</target>
       </trans-unit>
