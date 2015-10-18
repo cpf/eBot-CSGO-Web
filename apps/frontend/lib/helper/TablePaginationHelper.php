@@ -34,7 +34,7 @@ function tablePagination($pager, $url, $name = "page", $add = "") {
 		echo "<a href=\"" . url_for($url . $char . "$name=" . $pager->getNextPage()) . "$add\">";
 		echo "\t";
 		echo __("Next");
-		echo "&gt;";
+		echo " &gt;";
 		echo "</a>";
 		echo "</li>";
 	}

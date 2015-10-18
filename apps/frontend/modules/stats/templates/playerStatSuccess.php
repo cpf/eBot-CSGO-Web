@@ -148,7 +148,7 @@
                             \ScoreColorUtils::colorForMaps($match->getMap()->getCurrentSide(), $team1, $team2);
                         }
                         ?>
-                        <h5><i class="icon-tasks"></i> <?php echo __("Match Informations"); ?></h5>
+                        <h5><i class="icon-tasks"></i> <?php echo __("Match Information"); ?></h5>
 
                         <table class="table">
                             <tr>
