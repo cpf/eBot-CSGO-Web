@@ -981,8 +981,51 @@
     <trans-unit id="295">
         <source>tells your team wants to unpause</source>
         <target>signal que votre équipe veut retirer la pause</target>
-      </trans-unit>
-
+    </trans-unit>
+    <trans-unit id="296">
+        <source>Round start</source>
+        <target>Debut du round</target>
+    </trans-unit>
+    <trans-unit id="297">
+        <source>has killed</source>
+        <target>a tue</target>
+    </trans-unit>
+    <trans-unit id="298">
+        <source>with</source>
+        <target>avec</target>
+    </trans-unit>
+    <trans-unit id="299">
+        <source>Round end</source>
+        <target>Fin du round</target>
+    </trans-unit>
+    <trans-unit id="300">
+        <source>Bomb planting</source>
+        <target>Plantage de la bombe</target>
+    </trans-unit>
+    <trans-unit id="301">
+        <source>Bomb defusing</source>
+        <target>Defuse de la bombe</target>
+    </trans-unit>
+    <trans-unit id="302">
+        <source>Clutch 1v</source>
+        <target>Situation de 1v</target>
+    </trans-unit>
+    <trans-unit id="303">
+        <source>Bomb defused</source>
+        <target>Bombe defusée</target>
+    </trans-unit>
+    <trans-unit id="304">
+        <source>Clutch 1vx succesful</source>
+        <target>Situation 1vx réussie</target>
+    </trans-unit>
+    <trans-unit id="305">
+        <source>Clutch 1v1</source>
+        <target>Situation 1v1</target>
+    </trans-unit>
+    <trans-unit id="306">
+        <source>Bomb exploded</source>
+        <target>Bombe explosée</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

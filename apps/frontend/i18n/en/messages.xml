@@ -976,6 +976,50 @@
         <source>Next</source>
         <target/>
       </trans-unit>
+    <trans-unit id="274">
+        <source>Round start</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="275">
+        <source>has killed</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="276">
+        <source>with</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="277">
+        <source>Round end</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="278">
+        <source>Bomb planting</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="279">
+        <source>Bomb defusing</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="280">
+        <source>Clutch 1v</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="281">
+        <source>Bomb defused</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="282">
+        <source>Clutch 1vx succesful</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="283">
+        <source>Clutch 1v1</source>
+        <target></target>
+    </trans-unit>
+    <trans-unit id="284">
+        <source>Bomb exploded</source>
+        <target></target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

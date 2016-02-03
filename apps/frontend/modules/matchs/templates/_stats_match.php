@@ -291,33 +291,33 @@ $size = 450 / ($match->getMaxRound() * 2 + 1);
 
                                 $text = $event->getEventName();
                                 if ($event->getEventName() == "round_start") {
-                                    $text = "Debut du round";
+                                    $text = __("Round start");
                                 } elseif ($event->getEventName() == "kill") {
                                     $color = "#F00";
                                     $kill = $event->getKill();
                                     if (!$kill)
                                         continue;
-                                    $text = $kill->getKillerName() . " a tue " . $kill->getKilledName() . " avec " . $kill->getWeapon();
+                                    $text = $kill->getKillerName() . " " .__("has killed") . " " . $kill->getKilledName() . " " .__("with") . " " . $kill->getWeapon();
                                 } elseif ($event->getEventName() == "round_end") {
-                                    $text = "Fin du round";
+                                    $text = __("Round end");
                                 } elseif ($event->getEventName() == "bomb_planting") {
                                     $color = "#A00";
-                                    $text = "Plantage de la bombe";
+                                    $text = __("Bomb planting");
                                 } elseif ($event->getEventName() == "bomb_defusing") {
                                     $color = "#A00";
-                                    $text = "Defuse de la bombe";
+                                    $text = __("Bomb defusing");
                                 } elseif ($event->getEventName() == "1vx") {
                                     $data = unserialize($event->event_text);
                                     $color = "#00F";
-                                    $text = "Situation de 1v" . $data["situation"];
+                                    $text = __("Clutch 1v") . $data["situation"];
                                 } elseif ($event->getEventName() == "bomb_defused") {
-                                    $text = "Bombe defusée";
+                                    $text = __("Bomb defused");
                                 } elseif ($event->getEventName() == "1vx_ok") {
-                                    $text = "Situation 1vx réussie";
+                                    $text = __("Clutch 1vx succesful");
                                 } elseif ($event->getEventName() == "1v1") {
-                                    $text = "Situation 1v1";
+                                    $text = __("Clutch 1v1");
                                 } elseif ($event->getEventName() == "bomb_exploded") {
-                                    $text = "Bombe explosée";
+                                    $text = __("Bomb exploded");
                                 }
 
                                 if (count($eventArray) > 0) {
